@@ -11,5 +11,3 @@ Página personal.
 - Torrents [http://buscatorrents.jatrini.com](http://buscatorrents.jatrini.com).
 
 FIN.
-
-2018 Contacta conmigo en [jatrini@jatrini.com](mailto:jatrini@jatrini.com).
