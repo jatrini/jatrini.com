@@ -1,1 +1,1 @@
-# jatrini.com (una página chula)
+# jatrini.com
