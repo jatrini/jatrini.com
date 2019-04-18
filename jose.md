@@ -1,8 +1,8 @@
 **HOLA**
 
--1
--2
+- 1
+- 2
 
 Adiós
 
-[Enlace](index)
+[Enlace](index.html)
