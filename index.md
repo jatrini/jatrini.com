@@ -2,7 +2,7 @@
 - [Marcadores](marcadores) y en versión [pdf](marcadores/marcadores.pdf).
 - Generador de [contraseñas](passwords).
 - Biblioteca [http://libros.jatrini.com](http://libros.jatrini.com).
-- Música en [HD](http://musicahd.jatrini.com).
+- Música en HD [http://musicahd.jatrini.com](http://musicahd.jatrini.com).
 
 #### **Buscadores:**
 - Música [http://buscamusica.jatrini.com](http://buscamusica.jatrini.com).
