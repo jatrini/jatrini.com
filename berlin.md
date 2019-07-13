@@ -1,23 +1,23 @@
 **BERLÍN**
 
-- Torre TV:
-https://tv-turm.de/es/bar-restaurante/
-https://salidaypuestadelsol.com/germany/berlin_5146.html
+#### **Torre TV**
+[Torre TV - restaurante](https://tv-turm.de/es/bar-restaurante/)
+[Hora de reserva](https://salidaypuestadelsol.com/germany/berlin_5146.html)
 
-- Parlamento:
-https://www.bundestag.de/en/
-https://guias-viajar.com/viajes-alemania/berlin-reservar-visita-cupula-foster-reichstag/
+#### **Parlamento**
+[Web oficial - reserva](https://www.bundestag.de/en/)
+[Consejos de resrva](https://guias-viajar.com/viajes-alemania/berlin-reservar-visita-cupula-foster-reichstag/)
 
-- Tours:
-http://www.cultourberlin.com/
+#### **Tours**
+[cultourberlin](http://www.cultourberlin.com/)
 
-- Terraza:
-https://www.visitberlin.de/es/terraza-en-la-azotea-de-park-inn
+#### **Visitas**
+[Terraza azotea hotel Park Inn](https://www.visitberlin.de/es/terraza-en-la-azotea-de-park-inn)
 
-- Guías:
-https://guias-viajar.com/category/viajes-alemania/berlin-viajes-alemania/
-https://www.voyaberlin.com/
-https://www.visitberlin.de/es
-https://imanesdeviaje.com/consejos-para-viajar-a-berlin/
+#### **Guías**
+[Guías Viajar](https://guias-viajar.com/category/viajes-alemania/berlin-viajes-alemania/)
+[Voy a Berlín](https://www.voyaberlin.com/)
+[Visit Berlín](https://www.visitberlin.de/es)
+[Imanes de Viaje](https://imanesdeviaje.com/consejos-para-viajar-a-berlin/)
 
 [Enlace](/)
