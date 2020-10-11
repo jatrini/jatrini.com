@@ -1,6 +1,16 @@
-#### **Enlaces/Contenido:**
-- [Marcadores](marcadores) y en versión [pdf](marcadores/marcadores.pdf).
+Y éstas son algunas de mis áreas de interés.
+
+#### **Seguridad:**
 - Generador de [contraseñas](passwords).
+
+#### **Domótica:**
+- Lo tengo que escribir.
+
+#### **Viajes:**
+- [Marcadores](viajes/berlin)
+
+#### **Enlaces/Contenido:**
+- [Marcadores](marcadores/marcadores) y en versión [pdf](marcadores/marcadores.pdf).
 - Biblioteca [http://libros.jatrini.com](http://libros.jatrini.com).
 - Música en HD [http://musicahd.jatrini.com](http://musicahd.jatrini.com).
 
