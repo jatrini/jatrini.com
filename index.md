@@ -7,7 +7,7 @@ Y éstas son algunas de mis áreas de interés.
 - Esto lo tengo que escribir.
 
 #### **Viajes:**
-- [Berlín](viajes/berlin)
+- [Berlín](viajes/berlin).
 
 #### **Enlaces/Contenido:**
 - [Marcadores](marcadores/marcadores) y en versión [pdf](marcadores/marcadores.pdf).
