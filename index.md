@@ -1,13 +1,13 @@
 Y éstas son algunas de mis áreas de interés.
 
 #### **Seguridad:**
-- Generador de [contraseñas](passwords).
+- Generador de [contraseñas](seguridad/passwords).
 
 #### **Domótica:**
-- Lo tengo que escribir.
+- Esto lo tengo que escribir.
 
 #### **Viajes:**
-- [Marcadores](viajes/berlin)
+- [Berlín](viajes/berlin)
 
 #### **Enlaces/Contenido:**
 - [Marcadores](marcadores/marcadores) y en versión [pdf](marcadores/marcadores.pdf).
