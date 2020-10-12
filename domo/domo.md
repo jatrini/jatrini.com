@@ -1,5 +1,3 @@
-# Domótica
-
 - Dispositivos compatibles con Apple Home Kit.
     - Regleta Koogeek: O1EU Outlet. 3 enchufes + 3 USB de carga. Conectado también a Google Home.
     - Sensor Koogeek: DW1. No está conectado a Google Home.
