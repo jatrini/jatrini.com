@@ -12,7 +12,7 @@
 - [cultourberlin](http://www.cultourberlin.com/)
 
 #### **Visitas**
-- [Terraza azotea hotel Park Inn](https://www.visitberlin.de/es/terraza-en-la-azotea-de-park-inn)
+- [Terraza azotea PANORAMAPUNKT](https://www.panoramapunkt.de/en/welcome.html)
 
 #### **Guías**
 - [Guías Viajar](https://guias-viajar.com/category/viajes-alemania/berlin-viajes-alemania/)
