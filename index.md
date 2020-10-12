@@ -1,4 +1,4 @@
-Y éstas son algunas de mis áreas de interés.
+Podemos hablar de:
 
 #### **Seguridad:**
 - Generador de [contraseñas](seguridad/passwords).
