@@ -4,7 +4,7 @@ Podemos hablar de:
 - Generador de [contraseñas](seguridad/passwords).
 
 #### **Domótica:**
-- Esto lo tengo que escribir.
+- Esto lo tengo que escribir…
 
 #### **Viajes:**
 - [Berlín](viajes/berlin).
