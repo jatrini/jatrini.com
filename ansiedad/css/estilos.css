@@ -1,0 +1,492 @@
+/*
+  NORMALIZADOS
+*/
+
+* {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+*:before, *:after {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, nav, section, summary {
+  display: block;
+}
+
+audio, canvas, video {
+  display: inline-block;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-family: 'Benton Sans', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  text-decoration: none;
+  transition: all 0.7s cubic-bezier(0.19, 1, 0.22, 1);
+}
+
+a:hover, a:focus, a:active {
+  text-decoration: none;
+  outline: none;
+}
+
+b, strong {
+  font-weight: bold;
+}
+
+code, kbd, pre, samp {
+  font-family: monospace, serif;
+  font-size: 1em;
+}
+
+pre {
+  white-space: pre;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
+small {
+  font-size: 80%;
+}
+
+img {
+  border: 0;
+  display: inline-block;
+  max-width: 100%;
+  height: auto;
+}
+
+figure {
+  margin: 0;
+}
+
+ul, ol {
+  padding: 0;
+  margin: 0;
+}
+
+ul, li {
+  list-style-type: none;
+  padding-left: 0;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+ol li {
+  list-style-type: decimal;
+}
+
+p {
+  line-height: 1em;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+blockquote {
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/*
+  FUENTES
+*/
+
+@font-face {
+  font-family: 'Droid Serif';
+  src: url('https://verne.elpais.com/fonts/v1.x/v1.0/droid_serif/droidserif-bold-webfont.eot');
+  src: url('https://verne.elpais.com/fonts/v1.x/v1.0/droid_serif/droidserif-bold-webfont.eot?#iefix') format('embedded-opentype'),
+       url('https://verne.elpais.com/fonts/v1.x/v1.0/droid_serif/droidserif-bold-webfont.woff') format('woff'),
+       url('https://verne.elpais.com/fonts/v1.x/v1.0/droid_serif/droidserif-bold-webfont.ttf') format('truetype'),
+       url('https://verne.elpais.com/fonts/v1.x/v1.0/droid_serif/droidserif-bold-webfont.svg#droid_serifbold') format('svg');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Benton Sans';
+  src: url('https://verne.elpais.com/fonts/v2.x/v2.0/benton/bentonsans-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Iconos Pais';
+  src: url('https://verne.elpais.com/fonts/v2.x/v2.0/ico/iconos-pais.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/*
+  MOVIL
+*/
+
+.cabecera {
+  background-color: #03b282;
+  padding: 0.625rem;
+  text-align: center;
+}
+
+.cabecera_contenedor {
+  /*
+  max-width: 73.75rem;
+  margin: 0 auto;
+  */
+}
+
+.logo {
+  float: left;
+}
+
+.logo a {
+  background: url('https://verne.elpais.com/verne/iconos/v1.x/v1.0/logos/verne.svg') no-repeat scroll center;
+  background-size: contain;
+  display: inline-block;
+  text-align: left;
+  text-indent: -6666rem;
+  overflow: hidden;
+  width: 6.5625rem;
+  height: 2rem;
+}
+
+.compartir {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.compartir li {
+  
+}
+
+.compartir li a {
+  display: block;
+  width: 2rem;
+  height: auto;
+  text-indent: -6666rem;
+  font-size: 2rem;
+  line-height: 2rem;
+  height: 2rem;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  position: relative;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.compartir li a:before {
+  text-indent: 0;
+  color: white;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: block;
+  font-size: inherit;
+  line-height: 1;
+  font-family: 'Iconos Pais';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.compartir li a.facebook:before {
+  content: "\e902";
+}
+
+.compartir li a.twitter:before {
+  content: "\e90a";
+}
+
+.compartir li a.whatsapp:before {
+  content: "\e90b";
+}
+
+.vineta {
+  position: relative;
+  overflow: hidden;
+}
+
+.vineta img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.vineta .vineta_hilo {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 0%;
+}
+
+.vineta:nth-of-type(2) .vineta_hilo {
+  width: 0%;
+  height: 100%;
+  left: 0;
+  max-width: none;
+}
+
+.vineta:nth-of-type(3) .vineta_hilo,
+.vineta:nth-of-type(4) .vineta_hilo {
+  width: 0%;
+  height: 100%;
+  left: auto;
+  right: 0;
+}
+
+.vineta .vineta_hilo span {
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-attachment: scroll;
+  background-size: 100% auto;
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.vineta:nth-of-type(1) .vineta_hilo span {
+  background-image: url('https://verne.elpais.com/especial/ansiedad/img/1-hilo.png');
+}
+
+.vineta:nth-of-type(2) .vineta_hilo span {
+  background-image: url('https://verne.elpais.com/especial/ansiedad/img/2-hilo.png');
+  background-size: auto 100%;
+  background-position: left center;
+}
+
+.vineta:nth-of-type(3) .vineta_hilo span {
+  background-image: url('https://verne.elpais.com/especial/ansiedad/img/3-hilo.png');
+  background-position: right top;
+  background-size: auto 100%;
+}
+
+.vineta:nth-of-type(4) .vineta_hilo span {
+  background-image: url('https://verne.elpais.com/especial/ansiedad/img/4-hilo.png');
+  background-position: right top;
+  background-size: auto 100%;
+}
+
+.vineta:nth-of-type(5) .vineta_hilo span {
+  background-image: url('https://verne.elpais.com/especial/ansiedad/img/5-hilo.png');
+}
+
+.vineta:nth-of-type(7) .vineta_hilo span {
+  background-image: url('https://verne.elpais.com/especial/ansiedad/img/7-hilo.png');
+}
+
+.respuesta img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  opacity: 0;
+  transition: all 0.5s;
+}
+
+.respuesta img.activo {
+  opacity: 1;
+}
+
+.respuesta {
+  margin-top: 2.5rem;
+}
+
+.respuesta picture:nth-child(9) img,
+.respuesta picture:nth-child(15) img,
+.respuesta picture:nth-child(23) img,
+.respuesta picture:nth-child(29) img,
+.respuesta picture:nth-child(35) img,
+.respuesta picture:nth-child(43) img,
+.respuesta picture:nth-child(48) img,
+.respuesta picture:nth-child(56) img {
+  margin-top: 2.5rem;
+}
+
+.creditos {
+  width: calc(100% - 2.5rem);
+  max-width: 39.375rem;
+  margin: 0 auto 4rem;
+}
+
+.creditos li,
+.creditos p {
+  font-family: 'Benton Sans';
+  font-size: 0.875rem;
+  line-height: 120%;
+  margin-bottom: 0.375rem;
+}
+
+.creditos p {
+  line-height: 130%;
+  margin-bottom: 3rem;
+}
+
+.creditos li a {
+  color: black;
+}
+
+.creditos li a:hover {
+  text-decoration: underline;
+}
+
+.relacionadas {
+  width: calc(100% - 2.5rem);
+  max-width: 39.375rem;
+  margin: 0 auto 3rem;
+}
+
+.relacionadas ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.relacionadas li {
+  width: calc(50% - 1.25rem);    
+}
+
+.relacionadas a {
+  display: block;
+  background: #03B282;
+  color: white;
+  width: 100%;
+  height: 22rem;
+  padding: 10%;
+  font-family: 'Droid Serif',serif;
+  font-size: 1.375rem;
+  line-height: 1.75rem;
+  font-weight: 700;
+  text-align: center;
+  position: relative;
+  transition: opacity 0.5s;
+  opacity: 1;
+}
+
+.relacionadas a:hover {
+  opacity: 0.8;
+}
+
+.relacionadas a:before {
+  content: '';
+  position: absolute;
+  z-index: 2;
+  display: block;
+  width: 2.75rem;
+  height: 2.75rem;
+  bottom: 2.625rem;
+  left: 50%;
+  transform: translateX(-50%);
+  background: url('https://verne.elpais.com/verne/iconos/v1.x/v1.0/varios/iconos.png') -0.0625rem -47.0625rem no-repeat white;
+  border-radius: 100%;
+  pointer-events: none;
+}
+
+.vineta_compartir {
+  z-index: 1;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: 40%;
+  text-align: center;
+}
+
+.vineta_facebook,
+.vineta_twitter,
+.vineta_whatsapp {
+  display: inline-block;
+  vertical-align: middle;
+  width: 4rem;
+  height: 4rem;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  background-image: url('https://verne.elpais.com/especial/ansiedad/img/facebook.png');
+  text-indent: -6666rem;
+  overflow: hidden; 
+}
+
+.vineta_twitter {
+  background-image: url('https://verne.elpais.com/especial/ansiedad/img/twitter.png');
+}
+
+.vineta_whatsapp {
+  background-image: url('https://verne.elpais.com/especial/ansiedad/img/whatsapp.png');
+}
+
+@media (min-width:75rem){
+
+  .vineta .vineta_hilo {
+    max-width: 75rem;
+    left: calc((100vw - 75rem) / 2);
+  }
+
+}
+
+@media (max-width:47.9375rem){
+  
+  .vineta img,
+  .respuesta img {
+    width: 100%;
+  }
+  
+  .vineta_compartir {
+    top: 38%;
+  }
+  
+  .vineta_facebook,
+  .vineta_twitter,
+  .vineta_whatsapp {
+    width: 3rem;
+    height: 3rem;
+  }
+  
+  .relacionadas ul {
+    display: block;
+  }
+  
+  .relacionadas li {
+    width: 100%;
+    margin-bottom: 1.25rem;
+  }
+  
+  .relacionadas a {
+    height: 15rem;
+    font-size: 1.125rem;
+    line-height: 1.5rem;
+  }
+
+}
