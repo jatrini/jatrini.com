@@ -13,7 +13,7 @@ Podemos hablar de:
 - [Marcadores](marcadores/marcadores) y en versión [pdf](marcadores/marcadores.pdf).
 - Biblioteca [http://libros.jatrini.com](http://libros.jatrini.com).
 - Música en HD [http://musicahd.jatrini.com](http://musicahd.jatrini.com).
-- [Ansiedad](ansiedad/index.html).
+- [Ansiedad](ansiedad).
 
 #### **Buscadores:**
 - Libros [http://buscalibros.jatrini.com](http://buscalibros.jatrini.com).
