@@ -1,7 +1,7 @@
 Podemos hablar de:
 
 #### **Seguridad:**
-- Generador de [contraseñas](seguridad/passwords).
+- TBD.
 
 #### **Domótica:**
 - Esto lo tengo que escribir…
@@ -13,6 +13,7 @@ Podemos hablar de:
 - [Marcadores](marcadores/marcadores) y en versión [pdf](marcadores/marcadores.pdf).
 - Biblioteca [http://libros.jatrini.com](http://libros.jatrini.com).
 - Música en HD [http://musicahd.jatrini.com](http://musicahd.jatrini.com).
+- [Ansiedad](ansiedad/index.html).
 
 #### **Buscadores:**
 - Libros [http://buscalibros.jatrini.com](http://buscalibros.jatrini.com).
