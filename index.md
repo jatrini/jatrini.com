@@ -1,7 +1,7 @@
 Podemos hablar de:
 
 #### **Seguridad:**
-- TBD ().
+- TBD (pronto).
 
 #### **Domótica:**
 - Esto lo tengo que escribir…
